@@ -25,5 +25,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramkumar-kollimalayan&show_icons=true&theme=default" alt="Ramkumar Kollimalayan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramkumarkollimalayan&show_icons=true&theme=default" alt="Ramkumar Kollimalayan" />
 </p>
