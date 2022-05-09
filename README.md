@@ -5,11 +5,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-ramkumar-kollimalayan/ramkumar-kollimalayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ramkumarkollimalayan/ramkumarkollimalayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am RAMKUMAR✨ 
+# Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> there, I'm Ramkumar! 
+[![Linkedin: ramkumarkollimalayan](https://img.shields.io/badge/-Ramkumar%20Kollimalayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramkumarkollimalayan/)](https://www.linkedin.com/in/ramkumarkollimalayan/)
 ![](https://visitor-badge.glitch.me/badge?page_id=ramkumarkollimalayan.ramkumarkollimalayan&left_color=black&right_color=green)
 <p align="left">A <strong><i>software developer</i></strong> specialized in the area of <strong><i>frontend</i></strong> from INDIA with more than 5 years of experience, I have worked on many projects. I use effective technologies and standards which guarantee a quality product.<br><br>Enthusiastic and self-taught, willing to learn and develop in the best possible way in new technologies, assuming challenges that allow me to develop professionally, always responsible and committed to my work.<br><br>
 ✓ Strong Knowledge in HTML5.<br>
