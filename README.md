@@ -1,6 +1,3 @@
-# Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> there, I'm Ramkumar! 
-[![Linkedin: ramkumarkollimalayan](https://img.shields.io/badge/-Ramkumar%20Kollimalayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramkumarkollimalayan/)](https://www.linkedin.com/in/ramkumarkollimalayan/)
-![](https://visitor-badge.glitch.me/badge?page_id=ramkumarkollimalayan.ramkumarkollimalayan&left_color=black&right_color=green)
 ## About
 > I'm a <strong><i>front-end developer</i></strong> with more than 5 years of experience, I have worked on many projects. I use effective technologies and standards which guarantee a quality product.
 
@@ -21,3 +18,5 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ramkumarkollimalayan&show_icons=true&theme=default" alt="Ramkumar Kollimalayan" />
 </p>
+[![Linkedin: ramkumarkollimalayan](https://img.shields.io/badge/-Ramkumar%20Kollimalayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramkumarkollimalayan/)](https://www.linkedin.com/in/ramkumarkollimalayan/)
+![](https://visitor-badge.glitch.me/badge?page_id=ramkumarkollimalayan.ramkumarkollimalayan&left_color=black&right_color=green)
