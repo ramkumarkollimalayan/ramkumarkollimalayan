@@ -1,14 +1,3 @@
-<!---
-- 👋 Hi, I’m @ramkumar-kollimalayan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-ramkumarkollimalayan/ramkumarkollimalayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> there, I'm Ramkumar! 
 [![Linkedin: ramkumarkollimalayan](https://img.shields.io/badge/-Ramkumar%20Kollimalayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramkumarkollimalayan/)](https://www.linkedin.com/in/ramkumarkollimalayan/)
 ![](https://visitor-badge.glitch.me/badge?page_id=ramkumarkollimalayan.ramkumarkollimalayan&left_color=black&right_color=green)
