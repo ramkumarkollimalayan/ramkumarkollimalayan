@@ -40,8 +40,5 @@
 
 <strong>Web performance optimization (WPO)</strong><br/>
 
-## Reach me
-Email: <a href="mailto:kraamkumar@outlook.com">kraamkumar@outlook.com</a><br/>
-Mobile: <a href="tel:+919994200270">+91 999 42 00 270</a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ramkumarkollimalayan&show_icons=true&theme=default" alt="Ramkumar Kollimalayan" />
+## 📫 Reach me
+Email: <a href="mailto:kraamkumar@outlook.com">kraamkumar@outlook.com</a>
